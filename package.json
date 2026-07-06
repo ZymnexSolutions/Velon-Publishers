@@ -1,0 +1,44 @@
+{
+  "name": "rockwell-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "images:webp": "node scripts/convert-images-to-webp.mjs"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/free-brands-svg-icons": "^6.5.2",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "aos": "^2.3.4",
+    "axios": "^1.9.0",
+    "contentful": "^10.15.1",
+    "glightbox": "^3.3.0",
+    "intl-tel-input": "^24.8.1",
+    "lucide-react": "^0.562.0",
+    "next": "16.0.3",
+    "nodemailer": "^7.0.9",
+    "react": "19.2.0",
+    "react-countdown-circle-timer": "^3.2.1",
+    "react-countup": "^6.5.3",
+    "react-dom": "19.2.0",
+    "react-fast-marquee": "^1.6.5",
+    "react-phone-number-input": "^3.4.9",
+    "react-slick": "^0.30.2",
+    "react-stacked-center-carousel": "^1.0.14",
+    "react-type-animation": "^3.2.0",
+    "slick-carousel": "^1.8.1",
+    "swiper": "^11.1.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "16.0.3",
+    "sharp": "^0.34.5",
+    "tailwindcss": "^4"
+  }
+}
