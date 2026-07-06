@@ -20,7 +20,7 @@
     "glightbox": "^3.3.0",
     "intl-tel-input": "^24.8.1",
     "lucide-react": "^0.562.0",
-    "next": "16.0.3",
+    "next": "16.0.10",
     "nodemailer": "^7.0.9",
     "react": "19.2.0",
     "react-countdown-circle-timer": "^3.2.1",
