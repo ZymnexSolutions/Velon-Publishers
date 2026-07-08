@@ -15,7 +15,7 @@ const row1 = [
     },
     {
         name: "Deandre Jefferson",
-        text: "Spines can take the idea you are passionate about and facilitate bringing it into reality. I highly recommend them to all aspiring authors.",
+        text: "Velon can take the idea you are passionate about and facilitate bringing it into reality. I highly recommend them to all aspiring authors.",
         initial: "D",
     },
     {
@@ -33,12 +33,12 @@ const row2 = [
     },
     {
         name: "Carlos Andromeda",
-        text: "I sent my book to 17 publishers and got rejected every time. With Spines, I got my book published in less than 30 days!",
+        text: "I sent my book to 17 publishers and got rejected every time. With Velon, I got my book published in less than 30 days!",
         initial: "C",
     },
     {
         name: "Joshua Holton",
-        text: "I’ve paid over $3,500 for editors in the past. With Spines, I had complete creative control over how my book turned out.",
+        text: "I’ve paid over $3,500 for editors in the past. With Velon, I had complete creative control over how my book turned out.",
         initial: "J",
     },
     {

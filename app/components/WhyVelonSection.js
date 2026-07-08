@@ -1,4 +1,4 @@
-// components/WhySpinesSection.jsx
+// components/WhyVelonSection.jsx
 "use client";
 
 import Image from "next/image";
@@ -11,10 +11,10 @@ import {
   Megaphone,
 } from "lucide-react";
 
-export default function WhySpinesSection({
+export default function WhyVelonSection({
   badgeTextTop = "LOVED BY",
   badgeTextBottom = "2,800+ AUTHORS",
-  title = "Why Self-Publish with\nSpines? A Faster, Easier,\nand More Profitable\nExperience",
+  title = "Why Self-Publish with\nVelon? A Faster, Easier,\nand More Profitable\nExperience",
   items = defaultItems,
 }) {
   return (

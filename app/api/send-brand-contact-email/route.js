@@ -145,7 +145,7 @@ export async function POST(req) {
               </table>
             </div>
             <p style="font-size:16px; line-height:1.6; margin-bottom:8px;"><strong>Velon Book Publishing Team</strong></p>
-            <p style="font-size:16px; line-height:1.6; margin:0;">Email: support@pinebookpublishing.com</p>
+            <p style="font-size:16px; line-height:1.6; margin:0;">Email: support@velonbookpublishing.com</p>
           </div>
         </div>
       </div>

@@ -124,7 +124,7 @@ export default function DidYouKnowSection() {
 
         <p className="text-sm sm:text-[15px] leading-relaxed text-slate-600 mb-10">
           Founded by authors and writers themselves,{" "}
-          <span className="font-semibold text-slate-900">Spines</span> understands the
+          <span className="font-semibold text-slate-900">Velon</span> understands the
           many challenges authors face, and aims to{" "}
           <span className="font-semibold text-slate-900">democratize publishing</span>{" "}
           for writers everywhere.

@@ -104,10 +104,10 @@ export default function HelpHeroWithForm() {
                         {/* Badges Section */}
                         {(() => {
                             const badges = [
-                                { title: "Top eBook Content Writing", logo: "https://pinebookpublishing.com/_next/image?url=%2Fimages%2Fbage2.png&w=256&q=75" },
-                                { title: "Literary Excellence in Children Book", logo: "https://pinebookpublishing.com/_next/image?url=%2Fimages%2Fbage13.png&w=256&q=75" },
-                                { title: "2023 Book Award Winner: Non-Fiction Book", logo: "https://pinebookpublishing.com/_next/image?url=%2Fimages%2Fbage14.png&w=256&q=75" },
-                                { title: "Book Award Gold Winner: Fiction", logo: "https://pinebookpublishing.com/_next/image?url=%2Fimages%2Fbage12.png&w=256&q=75" },
+                                { title: "Top eBook Content Writing", logo: "https://velonbookpublishing.com/_next/image?url=%2Fimages%2Fbage2.png&w=256&q=75" },
+                                { title: "Literary Excellence in Children Book", logo: "https://velonbookpublishing.com/_next/image?url=%2Fimages%2Fbage13.png&w=256&q=75" },
+                                { title: "2023 Book Award Winner: Non-Fiction Book", logo: "https://velonbookpublishing.com/_next/image?url=%2Fimages%2Fbage14.png&w=256&q=75" },
+                                { title: "Book Award Gold Winner: Fiction", logo: "https://velonbookpublishing.com/_next/image?url=%2Fimages%2Fbage12.png&w=256&q=75" },
                             ];
 
                             return (
