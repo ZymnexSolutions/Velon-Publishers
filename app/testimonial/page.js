@@ -5,8 +5,8 @@ import Footer from "../components/Footer";
 
 const TESTIMONIAL_VIDEOS = [
   // "/images/video-testi.mp4",
-  "/images/vid-2.mp4",
-  "/images/vid-3.mp4",
+  "/images/vid-2.webm",
+  "/images/vid-3.webm",
 ];
 
 export default function TestimonialPage() {
